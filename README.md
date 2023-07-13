@@ -1,16 +1,17 @@
 # easacc_task_final
 
-A new Flutter project.
+video: https://youtu.be/zGHsBCt9slM
 
-## Getting Started
+functionality:
 
-This project is a starting point for a Flutter application.
+a Flutter web view application that checks the connectivity with external devices such as printers and cameras.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+usage: 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To check if a device is connected, press the corresponding button on the app. For example, to check if the camera is connected, press the camera button. The app will then display a message indicating whether or not the device is connected.
+
+
+![1](https://github.com/subzero56011/external_device_connectivity_checker3/assets/53402251/9fb30eb4-7466-4d7f-8f6f-3d850814aaf1)
+![2](https://github.com/subzero56011/external_device_connectivity_checker3/assets/53402251/aefea6b8-71fb-46e0-997f-749660f03aeb)
+![3](https://github.com/subzero56011/external_device_connectivity_checker3/assets/53402251/f02e5dce-6e81-4a80-b325-158e475a3895)
